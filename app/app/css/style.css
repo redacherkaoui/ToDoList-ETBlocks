@@ -1,0 +1,18 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+#page-header {
+    background-color: #007BFF;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.container {
+    /* Add additional styling for your content container here */
+}
